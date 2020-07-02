@@ -1,0 +1,4 @@
+G:\System and DB Backup\lending system\LendingSystem\DataViewModel\bin\Debug\DataViewModel.dll
+G:\System and DB Backup\lending system\LendingSystem\DataViewModel\bin\Debug\DataViewModel.pdb
+G:\System and DB Backup\lending system\LendingSystem\DataViewModel\obj\Debug\DataViewModel.dll
+G:\System and DB Backup\lending system\LendingSystem\DataViewModel\obj\Debug\DataViewModel.pdb
